@@ -119,8 +119,6 @@ resultArr.map(function(item) {
         };
 });
 
-
-console.log(finalArr.join(""));
 return finalArr.join("");
 }
 
